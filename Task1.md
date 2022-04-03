@@ -1,4 +1,4 @@
-# Task-1-Calculator 
+# Task-1-Calculator
 **Beginner Level** <br/>
 [See Home Page ](/README.md)<br/>
 [See Task 2 Page ](/Task2.md) <br/>
@@ -20,14 +20,15 @@ The aim of this is to make it capable of performing the quadratic formula, by br
 The setup for the methods are there. You just need to add in the right numbers: squaring b; 4AC; square root 4AC etc
 <br/><img src="Images/quadraticEquation.png" width="50%" height="50%"><br/>
 
-### Keywords:
+### Keywords  **(completed)**:
 Open this file in the GitHub editor/ Gitpod (Task1.md file) - match keywords with definitions. Copy and Paste.<br>
+
 Keywords:
-- Java
-- Method
-- Class
-- Integer
-- Float
+- Java - A programming language
+- Method - A subprogram which can be called many times
+- Class - A 'Cookie Cutter' which can make objects of that type
+- Integer - A whole number
+- Float - A number that can use decimals
 
 Definitions:
 - A programming language
@@ -40,23 +41,23 @@ Definitions:
 ```java
 System.out.println("Hello World");
 ```
-- Guess what the output is from the code above:
+- Guess what the output is from the code above: Hello world
 - Actual output:  [See answer here](https://learn.onlinegdb.com/846UnWowD)<br/>
 
 ```java
 System.out.println(10 + 10);
 ```
-- Guess what the output is from the code above:
+- Guess what the output is from the code above: 20
 - Actual output:  [See answer here](https://learn.onlinegdb.com/1IHVeidxO)<br/>
 
-## Introductory Tasks:
+## Introductory Tasks (Completed):
 - Keep this tab open; click on the GitPod button to start programming.
 - Click yes to anything that needs downloading.
 - You should be on calculator.java (src/main/java/github/x1n32/Task1Calculator/calculator.java)
 - This code is mostly finished, but contains a bug.
 - Try running the code (Press F5)
 - Now go to Calculator 1 Status and click the link to see the report. Can you see the error?
-- [ ] Back on GitPod, look at the add function. Change 'return a + 5' to 'return a + b'.
+- [x] Back on GitPod, look at the add function. Change 'return a + 5' to 'return a + b'.
 - Now type 'submit' into the console of GitPod
 - Reload the status page. Any differences?
 
@@ -83,11 +84,7 @@ Open calculator2.java
 - Remember to save your work. You can see your progress on the links as well by saving.
 - To save your work, enter **submit** to the command line.
 <br/><img src="Images/submit.PNG" width="70%" height="70%"><br/>
-<!--
-```shell
-mvn test && git add . && git commit -m "Saving" && git push
-```
--->
+
 
 # Calculator 1 status:<br/>
 [See report on Calculator 1](calculator1Report.md)<br/>
