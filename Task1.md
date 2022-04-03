@@ -22,12 +22,13 @@ The setup for the methods are there. You just need to add in the right numbers: 
 
 ### Keywords:
 Open this file in the GitHub editor/ Gitpod (Task1.md file) - match keywords with definitions. Copy and Paste.<br>
+ **complete**
 Keywords:
-- Java
-- Method
-- Class
-- Integer
-- Float
+- Java - A programming language
+- Method - A subprogram which can be called many times
+- Class - A 'Cookie Cutter' which can make objects of that type
+- Integer - A whole number
+- Float - A number that can use decimals
 
 Definitions:
 - A programming language
@@ -40,13 +41,13 @@ Definitions:
 ```java
 System.out.println("Hello World");
 ```
-- Guess what the output is from the code above:
+- Guess what the output is from the code above: Hello world
 - Actual output:  [See answer here](https://learn.onlinegdb.com/846UnWowD)<br/>
 
 ```java
 System.out.println(10 + 10);
 ```
-- Guess what the output is from the code above:
+- Guess what the output is from the code above: 20
 - Actual output:  [See answer here](https://learn.onlinegdb.com/1IHVeidxO)<br/>
 
 ## Introductory Tasks:
@@ -56,7 +57,7 @@ System.out.println(10 + 10);
 - This code is mostly finished, but contains a bug.
 - Try running the code (Press F5)
 - Now go to Calculator 1 Status and click the link to see the report. Can you see the error?
-- [ ] Back on GitPod, look at the add function. Change 'return a + 5' to 'return a + b'.
+- [x] Back on GitPod, look at the add function. Change 'return a + 5' to 'return a + b'.
 - Now type 'submit' into the console of GitPod
 - Reload the status page. Any differences?
 
