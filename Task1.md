@@ -83,11 +83,7 @@ Open calculator2.java
 - Remember to save your work. You can see your progress on the links as well by saving.
 - To save your work, enter **submit** to the command line.
 <br/><img src="Images/submit.PNG" width="70%" height="70%"><br/>
-<!--
-```shell
-mvn test && git add . && git commit -m "Saving" && git push
-```
--->
+
 
 # Calculator 1 status:<br/>
 [See report on Calculator 1](calculator1Report.md)<br/>
