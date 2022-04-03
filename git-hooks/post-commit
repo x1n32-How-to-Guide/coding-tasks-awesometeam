@@ -28,7 +28,7 @@ for line in file:
     if lineToFind3 in line:
         checkbox3 = True
 file.close()
-
+print(lineToFind1,lineToFind2,lineToFind3)
 #Append to file:
 file = open("Task1.md", "r")
 newFile = ""
