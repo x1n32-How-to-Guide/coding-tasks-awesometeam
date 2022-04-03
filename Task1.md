@@ -20,9 +20,9 @@ The aim of this is to make it capable of performing the quadratic formula, by br
 The setup for the methods are there. You just need to add in the right numbers: squaring b; 4AC; square root 4AC etc
 <br/><img src="Images/quadraticEquation.png" width="50%" height="50%"><br/>
 
-### Keywords:
+### Keywords  **(completed)**:
 Open this file in the GitHub editor/ Gitpod (Task1.md file) - match keywords with definitions. Copy and Paste.<br>
- **complete**
+
 Keywords:
 - Java - A programming language
 - Method - A subprogram which can be called many times
@@ -50,7 +50,7 @@ System.out.println(10 + 10);
 - Guess what the output is from the code above: 20
 - Actual output:  [See answer here](https://learn.onlinegdb.com/1IHVeidxO)<br/>
 
-## Introductory Tasks:
+## Introductory Tasks (Completed):
 - Keep this tab open; click on the GitPod button to start programming.
 - Click yes to anything that needs downloading.
 - You should be on calculator.java (src/main/java/github/x1n32/Task1Calculator/calculator.java)
