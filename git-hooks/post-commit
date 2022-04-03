@@ -37,11 +37,15 @@ for line in file:
     line = line.strip()
     if (checkbox1 == True) and (checkbox2 == True) and (checkbox3 == True) :
         changeline = line.replace("- [ ] Back on GitPod", "- [x] Back on GitPod")
-        print("new line: ",changeline)
         newFile = newFile + changeline + "\n"
     else:
         newFile = newFile + line + "\n"
 file.close()
+#Write to file 
+fout = open("Task1.md", "w")
+fout.write(newFile)
+fout.close()
+
 #Calc 2---------------------------------
 
 #Calculator 2 positive test comments
